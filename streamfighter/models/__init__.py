@@ -55,11 +55,10 @@ from streamfighter import db
 #     DID_NOT_ACCEPT = (3, u"Got offer, did not accept")
 #     GOT_JOB =        (4, u"Got the job")
 
-
-from .user import *
-from .comment import *
 from .highlight import *
-from .player import *
-from .taunt import *
-from .tournament import *
-from .game import *
+# from .user import *
+# from .comment import *
+# from .player import *
+# from .taunt import *
+# from .tournament import *
+# from .game import *
